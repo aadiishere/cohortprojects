@@ -1,3 +1,4 @@
+![A friendly dog waving hello](./giphy.gif)
 
 ### Welcome to my Coding Bootcamp Diary!
 
