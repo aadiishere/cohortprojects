@@ -1,3 +1,5 @@
+![A friendly dog waving hello](https://media.giphy.com/media/v1.Y2lkPTZjMDliOTU5cnp5NjljaHV2N29oZmpxc2d0bXJyNjllbzdubW4xY3YzaW1xY2Y1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oFzms9i9d55sYJpA4/giphy.gif)
+
 ### Welcome to my Coding Bootcamp Diary!
 
 This repository is proof that I survived "Learning Cohort 1.0". Here's the treasure (and evidence) from my journey.
