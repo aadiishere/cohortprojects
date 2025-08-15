@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Simple Semantic Form</title>
+    <style>
+        label {
+            margin-top: 10px;
+        }
+        
+        label, input {
+            display: block;
+        }
+
+        input:invalid {
+            outline: 2px solid red;
+        }
+
+        input:valid {
+            outline: 2px solid green;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Simple Signup</h2>
+
+    <form>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="password">Password (min. 8 chars):</label>
+        <input type="password" id="password" name="password" required minlength="8">
+        
+        <br>
+        <button type="submit">Sign Up</button>
+    </form>
+
+</body>
+</html>
